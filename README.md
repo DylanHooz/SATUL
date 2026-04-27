@@ -1,4 +1,4 @@
 # SATUL_code
-The SATUL code for submission to AAAI 2026
+The SATUL code for submission
 
 - The dataset code will be made publicly available upon acceptance.
